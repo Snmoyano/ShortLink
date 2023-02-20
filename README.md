@@ -71,13 +71,13 @@ shrink: Ejecuta el acortador
 https://example.com => url ingresada
 ```
 
-### A - . Short Url
+### B - . Short Url
 
 ```javascript
 ;(YsEtYdSS) => 'url acortada'
 ```
 
-### A - . Clicks
+### C - . Clicks
 
 ```javascript
 count = (clicks) => 'contador de veces acortada la misma url'
