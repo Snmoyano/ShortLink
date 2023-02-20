@@ -74,7 +74,7 @@ https://example.com => url ingresada
 ### B - . Short Url
 
 ```javascript
-;(YsEtYdSS) => 'url acortada'
+"YsEtYdSS"  => url acortada
 ```
 
 ### C - . Clicks
